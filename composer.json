@@ -1,5 +1,5 @@
 {
-    "name": "stechstudio/laravel-vfs-adapter",
+    "name": "piotr-grabowski-elastique/laravel-vfs-adapter",
     "description": "Virtual Filesystem Storage Adapter for Laravel",
     "type": "library",
     "license": "MIT",
